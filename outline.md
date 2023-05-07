@@ -1,16 +1,13 @@
 job:
     -title
-    -location  -time
+    -location  
     -jop-type
     -discription-jop
-        -Responsibility
-        -Qualifications
-        -Benefits
     -Published at
     -Vacancy
     -Salary
-    -Location
-    -category
+    -Location #
+    -category#
     -epxperience
     
 
